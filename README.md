@@ -2,7 +2,7 @@
 
 # Redezeit-Uhr
 
-Ein kleines Werkzeug für Meeting, das dem Moderator von Besprechungen hilft, die Redezeit von Teilnehmern zu begrenzen.
+Ein kleines Werkzeug, das dem Moderator von Besprechungen hilft, die Redezeit von Teilnehmern zu begrenzen.
 
 ![Benutzeroberfläche](Documentation/LargeUI.png)
 
